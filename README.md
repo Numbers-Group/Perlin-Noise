@@ -38,6 +38,9 @@ We create a matrix (64x64 for example) and fill it with units. Then, after selec
 
 # Screenshots
 
+![alt text](https://github.com/Numbers-Technologies/Perlin-Noise/blob/main/Screenshots/2022-07-23_03-57.png)
+![alt text](https://github.com/Numbers-Technologies/Perlin-Noise/blob/main/Screenshots/index.png)
+
 # License
 
 GPL-3.0 license
